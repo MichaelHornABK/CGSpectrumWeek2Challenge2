@@ -6,8 +6,8 @@ void NumberCubed(float num);
 
 int main()
 {
+    //main function
     cout << "Enter in a number to be cubed: ";
-
     float num;
     cin >> num;
     NumberCubed(num);
